@@ -1,0 +1,1 @@
+为微信输入法补出中英 subtype，让系统输入法框架（与 BetterZUIKey）接管语言切换；并加入标点与引号括号补强、Shift 快捷键修复、软硬键盘切换与更宽松的物理键盘识别 / Expose the Chinese/English subtypes that WeType withholds, so the system input method framework (and BetterZUIKey) can drive language switching, plus punctuation and quote/bracket reinforcement, Shift key repairs, soft/hard keyboard mode control, and looser physical-keyboard detection
